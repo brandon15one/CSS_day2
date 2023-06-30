@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+.text{
+    color: rgb(150, 17, 17);
+    
+    }
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}    
+.poster_image{
+    border: rgb(150, 17, 17) solid 5px;
+    width: 100%;
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: Agdasima ;
+    text-align: center;
+}
